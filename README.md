@@ -16,7 +16,7 @@ It includes:
 
 ## 🌐 Live Demo
 
-👉 [View Live Site](https://your-username.github.io/portfolio/)  
+👉 [View Live Site](https://sidhant-codes.github.io/portfolio/)
 ## 🎯 Features
 
 - 👤 **About Me Section**  
